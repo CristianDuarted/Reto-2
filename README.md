@@ -89,7 +89,7 @@ Representa cada videojuego disponible en el sistema.
 
 A continuación se presenta el diagrama UML del sistema:
 
-![Diagrama UML](diagrama_uml.png)
+![Diagrama UML](diagrama_tienda.png)
 
 ## Explicación de la solución
 
