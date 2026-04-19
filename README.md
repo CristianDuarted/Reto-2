@@ -98,15 +98,3 @@ Se escogió como problema de la vida real un sistema de compra de videojuegos po
 Primero se definieron las clases principales del sistema: usuario, compra, carrito, biblioteca y juego.  
 Después se asignaron atributos para describir la información de cada objeto y métodos para representar su comportamiento.  
 Finalmente, se organizaron las relaciones entre las clases en un diagrama UML para mostrar cómo interactúan dentro del sistema.
-
-## Estructura del repositorio
-
-Se recomienda organizar el repositorio de la siguiente manera:
-
-```text
-reto_2/
-├── README.md
-├── diagrama_uml.png
-├── punto_1.py
-├── punto_2.py
-├── punto_3.py
